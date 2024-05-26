@@ -1,0 +1,48 @@
+commit 3d6c3fed12cac7eccf036cd93798721b6d778836
+Merge: 3d79e51 31d92df
+Author: Stephen Blackwell <sbla686@wgu.edu>
+Date:   Sun May 26 13:19:11 2024 -0600
+
+    Merge conflict resolved
+
+commit 3d79e51031c70efdc8baabfb14f5c6b93717b62d
+Author: Stephen Blackwell <sbla686@wgu.edu>
+Date:   Sun May 26 13:13:39 2024 -0600
+
+    Added version number to the working branch on the readme.md file
+
+commit 31d92df5e7da4c6cce0dddae332aded98c4f5854
+Author: Stephen Blackwell <sbla686@wgu.edu>
+Date:   Sun May 26 13:02:22 2024 -0600
+
+    Added student Id number to Test branch on the 2nd line of the readme file
+
+commit 80f8a6ee3d47919eb168a895e3c7e76e055b64d3
+Author: Stephen Blackwell <sbla686@wgu.edu>
+Date:   Sun May 26 12:35:51 2024 -0600
+
+    Added a an header 2 to the page just above the customer testimonals. I cut last sentence in the existing paragraph which states Here is what they have to say about what we do into the header to make it stand out more. I did all of this to the customers.html page.
+
+commit 388f40a571d9991ed7fcef6f4dbf775f681422ba
+Author: Stephen Blackwell <sbla686@wgu.edu>
+Date:   Sun May 26 12:26:08 2024 -0600
+
+    added more specific guidelines to when messages would given a response. I said that all messages would be responded to within 48 business hours. This was done in the paragraph section under the contact us header.
+
+commit 4f37565a21236fc7b3b843c850edc929f9b6ec00
+Author: Stephen Blackwell <sbla686@wgu.edu>
+Date:   Sun May 26 12:15:39 2024 -0600
+
+    Added the words at Stephen Inc to the About us header tag in the about.html
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit

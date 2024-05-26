@@ -1,0 +1,17 @@
+Summary of Merge Conflict Resolution (Part E1): 
+
+The merge conflict in part E1 was resolved by manually editting the files in the readme.md file.
+
+This problem was due to the fact that I editted line two with two different things in my working branch and in my Test branch. 
+
+Using the nano prompt after the merge conflict I was able to manually edit the two conflict of my Student Id and version number on two separate line. After making those changes I was able to commit the merge successfully. 
+
+Description of changes in part C1: 
+
+I made very simple brief changes to the html files. 
+
+In the about page, I added the words "at Stephens Inc to the About us header tag. This changed the website from saying "About Us," to "About Us at Stephen Inc."
+
+In the contact.html page, I editted the paragraph about how we would communicate with customers. The orginal paragraph said somehting about responding at the appropriate time. I changed this to say that our company would respond within 48 business hours of the message. 
+
+In the customers.html page, I also editted a paragraph. However, this time, I cut the ending of the paragraph, added a new header 2, and pasted the paragraph back as a header. This will make the section about the customers testamonials pop a bit more.  
